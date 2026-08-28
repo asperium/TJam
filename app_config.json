@@ -16,7 +16,6 @@
     "clean_paste": "^+v"
   },
   "maintenance": {
-    "crash_handler_binary": "bin\\crash_handler.exe",
-    "uninstaller_binary": "uninstaller.exe"
+    "crash_handler_binary": "bin\\crash_handler.exe"
   }
 }
