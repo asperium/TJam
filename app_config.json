@@ -1,0 +1,22 @@
+{
+  "app_metadata": {
+    "name": "TJam",
+    "version": "1.0.0",
+    "build_channel": "stable",
+    "architecture": "x64"
+  },
+  "runtime": {
+    "max_history_items": 50,
+    "persist_on_exit": true,
+    "clipboard_polling_rate_ms": 100,
+    "always_on_top": true
+  },
+  "hotkeys": {
+    "main_toggle": "^!v",
+    "clean_paste": "^+v"
+  },
+  "maintenance": {
+    "crash_handler_binary": "bin\\crash_handler.exe",
+    "uninstaller_binary": "uninstaller.exe"
+  }
+}
